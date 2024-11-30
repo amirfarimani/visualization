@@ -9,12 +9,38 @@
         ```
         Your answer...
 
+        Demand and Capacity Planning Dashboard [Good] :
+
+        This visualization is accessible due to its clean layout, consistent color usage, and clear legends, which minimize cognitive load and enhance usability for diverse audiences. These features align with the principles of accessible design discussed in the course. It is reproducible as it uses standard chart types (e.g., bar charts and line graphs) and includes clearly documented data sources, allowing others to verify or replicate its findings. The visualization demonstrates equity by presenting data in a way that does not favor or exclude specific groups, ensuring broad interpretability and relevance.
+
+
+        Design Visualization Worst Performance [Bad] :
+
+        This visualization fails in accessibility due to its cluttered layout, inconsistent color schemes, and lack of clear labels, which make it difficult for audiences, particularly those with visual or cognitive impairments, to interpret. It is not reproducible as it lacks clear documentation of the data sources and the steps used to create it, making verification or replication impossible. Additionally, it is inequitable because its chaotic design and poor usability exclude less data-literate audiences, limiting their ability to engage with or understand the information.
+
+
+
+
+
 
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
         Your answer...
+
+        Demand and Capacity Planning Dashboard [Good] :
+
+        Accessibility could be enhanced by incorporating features like colorblind-friendly palettes or adding patterns to differentiate data points. Including alt text for interactive elements and annotations highlighting key insights would make it more inclusive. To improve reproducibility, detailed documentation of the data preparation and visualization creation process could be included. Equity could be strengthened by ensuring the data set includes diverse populations and accounting for potential biases in the data selection process.
+
+
+
+        Design Visualization Worst Performance [Bad] :
+
+        Accessibility could be improved by simplifying the layout, using consistent and high-contrast colors, and providing clear labels and legends. Reproducibility would benefit from transparent documentation of the data sources, methods, and tools used. Equity could be enhanced by ensuring the design is intuitive and inclusive, accommodating users with varying levels of data literacy and providing additional descriptive elements for clarity. These changes would make the visualization more effective and inclusive for a wider audience.
+
+
+
 
 
 
