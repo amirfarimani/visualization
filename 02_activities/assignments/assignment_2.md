@@ -46,9 +46,9 @@
       There is no clear hierarchy to guide the viewer’s attention, so it’s easy to get lost in the details. 
       The lesson on perceptual clarity stresses the need for well-structured visuals that direct the audience’s focus, which this visualization neglects.
 
-     Potential for Misinterpretation: 
-     The chaotic design and unclear relationships between elements can lead to misunderstanding the data. 
-     This problem is flagged in discussions about the ethical risks of poorly designed visualizations, where misrepresentation can harm credibility.
+      Potential for Misinterpretation: 
+      The chaotic design and unclear relationships between elements can lead to misunderstanding the data. 
+      This problem is flagged in discussions about the ethical risks of poorly designed visualizations, where misrepresentation can harm credibility.
 
 
 
